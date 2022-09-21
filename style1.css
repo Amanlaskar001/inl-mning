@@ -1,0 +1,20 @@
+canvas {
+    border:1px solid #000000;
+    background-color: #2600ff;
+    position: relative;
+    left: 300px;
+  
+
+}
+
+button{
+    position: relative;
+    left: 300px;
+
+
+}
+
+p{
+    position: relative;
+    left: 300px;
+}
